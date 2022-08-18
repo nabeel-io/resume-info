@@ -9,7 +9,7 @@ advanced in-depth analysis of the interaction between customers and sellers usin
 The project includes creating a database of tables, joining these tables and performing a statistical 
 inquiry into the database to gain neccessary insights.*
 
-||Project Info|
+|Project Info||
 |---|---|
 |**type of problem**|***Data Wrangling***|
 |**data format**|***RDBMS***|
@@ -25,7 +25,7 @@ card transctions so that customers are not charged for purchases they did not ma
 methods like Random Forest, Xgboost, LightGBM. We furthur try to improve our prediction using blending 
 and stacking techniques to get better auc score*
 
-||Project Info|
+|Project Info||
 |---|---|
 |**type of problem**|***Classification***|
 |**data format**|***csv, pickle, parquet***|
