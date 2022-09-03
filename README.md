@@ -2,7 +2,7 @@
 
 ## **Data Science and ML Projects**
 
-![portfolio](doc/portfolio.png)
+![portfolio](doc/portfolio.jpg)
 
 ### [**Olist Database Analysis**](https://github.com/nabeel-io/olist_database_analysis)
 
