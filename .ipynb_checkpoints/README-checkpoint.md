@@ -22,10 +22,9 @@ inquiry into the database to gain neccessary insights. [**link**](https://github
 
 ### [**Credit Card Fraud Prediction**](https://github.com/nabeel-io/Transaction_Fraud_Detection)
 
-*The project consists of a highly imbalanced target class. Our goal is to recognize fradulent credit
-card transctions so that customers are not charged for purchases they did not make. We deploy ensemble
-methods like Random Forest, Xgboost, LightGBM. We furthur try to improve our prediction using blending 
-and stacking techniques to get better auc score. [**link**](https://github.com/nabeel-io/Transaction_Fraud_Detection)*
+*The project consists of a highly imbalanced target class. Our goal is to recognize fraudulent credit card transactions 
+so that customers are not charged for purchases they did not make. We deploy ensemble methods and boosting algorithms 
+like Random Forest, Xgboost, and LightGBM. We further try to improve our prediction using a Voting classifier and stacking technique to get a better AUC score.[**link**](https://github.com/nabeel-io/Transaction_Fraud_Detection)*
 
 ||Project Info|
 |---|---|
