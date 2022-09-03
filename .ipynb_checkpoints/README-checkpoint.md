@@ -2,6 +2,8 @@
 
 ## **Data Science and ML Projects**
 
+![portfolio](doc/portfolio.png)
+
 ### [**Olist Database Analysis**](https://github.com/nabeel-io/olist_database_analysis)
 
 *Analyze Olist eCommerce public dataset consisting of 100k orders using Postgres SQL for 
